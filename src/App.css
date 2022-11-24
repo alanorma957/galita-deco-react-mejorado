@@ -1,0 +1,27 @@
+*{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  font-size: 25px;
+  padding: 10px;
+  text-align: center;
+  background-color: rgba(245, 245, 245, 0.844);
+}
+svg{
+  width: 50px;
+  height: 50px;
+  color: white;
+}
+.app{
+
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 5px;
+  color: red;
+  background-color: black;
+  border-radius: 10px ;
+}
+.app:hover{
+  background-color: aqua;
+}
+.Nav{
+  text-decoration: none;
+}
+
